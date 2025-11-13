@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I’m **Koen**
 
-<!--
-**koenll23/koenll23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a teen maker from the Netherlands who loves building things — electronics, robotics, and creative digital projects.  
+I work on whatever sparks my curiosity, from hardware to code, and I like staying active in the gym to keep balance in life.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do  
+- Build projects with **ESP32**, **microcontrollers**, and **robots**  
+- Code hardware interfaces and creative software tools  
+- Design **simple static websites** and small web apps
+- 3D printing and **designing**
+- Learn, make, and share — because creating is the best way to grow  
+
+---
+
+## 🧠 Tech & Tools  
+**Languages:** C, C++, C#, Node.js, Python, HTML, CSS  
+**Hardware:** ESP32, Arduino, Raspberry Pi, robotics components  
+**Tools:** VS Code, Fusion360, Arduino IDE, ESP-IDF, GitHub, MakerWorld  
+
+---
+
+## 🪄 Projects  
+- 🎵 **ESP32 Spotify Desk Thing** — hardware Spotify controller  
+- 🤖 **Animatronic Build** — voice-controlled robot  
+- 🌐 **Static Sites** — clean and minimal personal or project pages  
+
+---
+
+*Always building, always learning — one idea at a time.*  
+
+![Doing what I love doing the most](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Blush_200px_JBjqWKR.gif)
