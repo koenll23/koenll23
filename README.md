@@ -1,6 +1,6 @@
 # 👋 Hey, I’m **Koen**
 
-I’m a teen maker from the Netherlands who loves building things — electronics, robotics, and creative digital projects.  
+I’m a teen maker (build year 2010) from the Netherlands who loves building things — electronics, robotics, and creative digital projects.  
 I work on whatever sparks my curiosity, from hardware to code, and I like staying active in the gym to keep balance in life.  
 
 ---
