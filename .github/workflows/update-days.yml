@@ -1,0 +1,39 @@
+name: Update Days Since Counter
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight
+  workflow_dispatch: # Allows you to run it manually right now to test it
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate days passed
+        id: calc
+        run: |
+          TARGET_DATE="2025-11-23"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          
+          # Convert dates to seconds and calculate the difference
+          TARGET_SECS=$(date -d "$TARGET_DATE" +%s)
+          CURRENT_SECS=$(date -d "$CURRENT_DATE" +%s)
+          DIFF_SECS=$((CURRENT_SECS - TARGET_SECS))
+          DIFF_DAYS=$((DIFF_SECS / 86400))
+          
+          echo "DAYS_PASSED=$DIFF_DAYS" >> $GITHUB_ENV
+
+      - name: Update README file
+        run: |
+          # Revert any previous numbers back to the placeholder first, then inject the new count
+          sed -i -E "s/[0-9]+ days ago/GYRO_DAYS_AGO_PLACEHOLDER days ago/g" README.md
+          sed -i "s/GYRO_DAYS_AGO_PLACEHOLDER/${{ env.DAYS_PASSED }}/g" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git diff --quiet && git diff --staged --quiet || (git commit -am "chore: update gyro days counter" && git push)
