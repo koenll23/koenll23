@@ -1,7 +1,5 @@
 # Hey, I'm Koen
 
-# Hey, I'm Koen
-
 ```cpp
 // Current state: Letting the code cook (or burn)
 while (true) {
