@@ -1,13 +1,13 @@
 # Hey, I'm Koen
 
 ```cpp
-// Current state: Letting the code cook (or burn, we'll see)
+// Current state: Letting the code cook (or burn)
 while (true) {
     if (hardware_works) {
         celebrate();
     } else {
-        blame_the_compiler();
-        goToGym();
+        blame_compiler();
+        gotogym();
     }
 }
 ```
@@ -45,21 +45,21 @@ When I'm not trying to fix that one error or waiting for my print to finish, you
 
 * Languages: C, C++, C#, Python, Node.js, HTML / CSS (I admit to vibecoding web stuff, because I can't be bothered to actually learn how to design visually appealing webpages, not my proffesion)
 * Hardware and Ecosystems: ESP32, Arduino, Raspberry Pi, ESP-IDF, Servo motors (can't afford actuators..), Platform IO and Monster energy
-* Software / IDEs: VS Code, Fusion360, Arduino IDE, MakerWorld, Bambu Studio / Cura VSCode, Fusion360, Makerworld, OrcaSlicer and sticky notes.
+* Software / IDEs: VSCode, Fusion360, Makerworld, OrcaSlicer and sticky notes.
 
 ---
 
 ## Featured Builds
 
-* Gyro: built out of boredom, started 177 days ago.
-* ESP32 Spotify Desk Thing: A physical hardware controller for Spotify because using a mouse to skip tracks felt way too low-tech.
-* Minimalist Web Spaces: Clean, aesthetic personal pages built to show off projects without any of the modern web bloat.
+* Gyro: built out of boredom, started 177 days ago (automatically updates :)
+* ESP32 Spotify Desk Thing: A little "currently playing" display with 3 switches to control playback. my first ever permanent project!
+* Webpages: Simple (vibecoded) webpages to show recent projects and to make out of boredom
 
 ---
 
 ```json
 {
-  "motivation": "Always building, always learning, heavily hyperfocused",
+  "motivation": "Always building, always learning, heavily invested into random rabbitholes",
   "current_objective": "Fix that one bug that disappeared on its own but will definitely come back later"
 }
 ```
