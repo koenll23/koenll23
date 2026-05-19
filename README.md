@@ -51,7 +51,7 @@ When I'm not trying to fix that one error or waiting for my print to finish, you
 
 ## Featured Builds
 
-* Gyro: built out of boredom, started GYRO_DAYS_AGO_PLACEHOLDER days ago.
+* Gyro: built out of boredom, started 177 days ago.
 * ESP32 Spotify Desk Thing: A physical hardware controller for Spotify because using a mouse to skip tracks felt way too low-tech.
 * Minimalist Web Spaces: Clean, aesthetic personal pages built to show off projects without any of the modern web bloat.
 
