@@ -26,17 +26,19 @@ When I'm not trying to fix that one error or waiting for my print to finish, you
 
 ---
 
+---
+
 ## Git Status / Live Metrics
 
 ### The Grind (Commit Streak and Activity, trying to be more active on code, but college, work and gym gets busy)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=koenll23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Koen's GitHub Stats" height="190px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koenll23&theme=tokyonight" alt="Koen's GitHub Streak" height="190px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koenll23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koenll23&theme=tokyonight" alt="GitHub Streak" height="190px"/>
 </p>
 
 ### Weapons of Choice (Most Used Languages)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=koenll23&layout=compact&theme=tokyonight&hide=html,css" alt="Koen's Top Languages" height="140px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=koenll23&layout=compact&theme=tokyonight" alt="Top Languages" height="140px"/>
 </p>
 
 ---
