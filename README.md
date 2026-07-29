@@ -59,7 +59,7 @@ When I'm not trying to fix that one error or waiting for my print to finish, you
 
 ## Featured Builds
 
-* Gyro: built out of boredom, started 247 days ago (automatically updates :)
+* Gyro: built out of boredom, started 248 days ago (automatically updates :)
 * ESP32 Spotify Desk Thing: A little "currently playing" display with 3 switches to control playback. my first ever permanent project!
 * Webpages: Simple (vibecoded) webpages to show recent projects and to make out of boredom
 
